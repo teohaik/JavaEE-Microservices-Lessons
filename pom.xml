@@ -11,6 +11,8 @@
         <module>initials</module>
         <module>supplier</module>
         <module>jaxrs-client</module>
+        <module>processor</module>
+        <module>async-jaxrs</module>
     </modules>
     
     <properties>
